@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FoodAndLove]]></title>
         <description><![CDATA[FoodAndLove]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/foodandlove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 26 May 2016 16:46:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 May 2016 16:52:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/foodandlove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8061db38-92f4-4d94-b0e0-1e347eaea1a7.jpg">]]></description>
+            <link>https://thegrid.ai/foodandlove/3ee1e62b-9410-48f9-89f2-92e3b472988f/index.html</link>
+            <guid isPermaLink="false">3ee1e62b-9410-48f9-89f2-92e3b472988f</guid>
+            <pubDate>Thu, 26 May 2016 16:51:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e1828b1-290b-4b22-a586-7d9985bdf685.png">]]></description>
-            <link>undefinedlets-go-paris-marathon-here-we-come/index.html</link>
+            <link>https://thegrid.ai/foodandlove/lets-go-paris-marathon-here-we-come/index.html</link>
             <guid isPermaLink="false">c7f269d3-fed7-4c75-a9c5-a6aaa99de4ba</guid>
             <pubDate>Thu, 26 May 2016 16:46:12 GMT</pubDate>
         </item>
